@@ -7,7 +7,11 @@ add_executable(scheduler ossim.c queue.c fifo.c
         sjf.c
         sjf.h
         pcb.h
-        rr.c)
+        rr.c
+        rr.h
+        mlfq.h
+        mlfq.c
+)
 
 add_executable(app app.c)
 
