@@ -1,3 +1,12 @@
+
+
+Grupo:
+
+Luis Almoster a22402907
+Rodrigo Ramos a22405227
+
+
+
 # Aula 3 / Sistemas Operativos – 2025  
 **Repositório:** Aula3-2025  
 **Instituição:** ULHT  - Universidade Lusófona
